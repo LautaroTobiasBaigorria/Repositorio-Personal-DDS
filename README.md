@@ -3,6 +3,7 @@ Repositorio personal con los trabajos prácticos de la materia
 
 Repositorio Personal – Desarrollo de Software
 
+Alumno: [Lautaro Baigorria]
 Carrera: Ingeniería en Sistemas de Información
 Universidad: UTN – Facultad Regional Córdoba
 Año: 2026

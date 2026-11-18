@@ -37,3 +37,13 @@ Trabajos prácticos
 - [Inventario-dds- asincronia](https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k6b/403329/inventario-dds-asincronia)
 - 
 - [Tienda-orm](https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k6b/403329/tienda-orm)
+
+- ## Tecnologías y herramientas utilizadas
+
+Durante el desarrollo de los distintos trabajos prácticos se utilizaron las siguientes tecnologías y herramientas:
+
+- **HTML5:** utilizado para la creación y estructuración del contenido de páginas web.
+- **CSS3:** empleado para el diseño visual, estilos, colores, distribución y adaptación de las interfaces.
+- **JavaScript:** utilizado para incorporar interactividad, manipular el DOM, gestionar eventos y desarrollar funcionalidades dinámicas.
+- **Node.js:** entorno de ejecución utilizado para desarrollar aplicaciones del lado del servidor, trabajar con APIs y gestionar operaciones asincrónicas.
+- **Git y GitHub:** herramientas utilizadas para el control de versiones, seguimiento de cambios y almacenamiento de los proyectos.
